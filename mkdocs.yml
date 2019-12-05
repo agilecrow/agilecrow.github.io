@@ -1,6 +1,7 @@
 site_name: Agile Crow
 nav:
     - Home: index.md
+    - Services: services.md
     - About: about.md
     - Contact us: contact.md
 theme: readthedocs
